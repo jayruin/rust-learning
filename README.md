@@ -2,4 +2,4 @@
 
 Slowly learning more about Rust.
 
-No copypasting of code allowed.
+As a personal rule, copypasting of code will not be allowed.
